@@ -1,0 +1,2 @@
+total_customers,active_customers,churned_customers,churn_rate,avg_purchase_value,avg_website_visits_per_month,avg_cart_abandon_rate,avg_days_since_purchase,revenue_proxy
+1559,1559,0,0.0,47.54391917896087,15.764592687620269,0.4846824887748556,15.243745991019885,1746819.17
