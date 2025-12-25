@@ -27,6 +27,3 @@ This project focuses on validating and cleaning customer and transaction data to
 - Pandas
 - NumPy
 - Jupyter Notebook
-
-## Why This Matters
-Clean data is the foundation of accurate analytics. This project demonstrates a professional approach to data validation, responsible cleaning, and transparent communication of data limitations.
