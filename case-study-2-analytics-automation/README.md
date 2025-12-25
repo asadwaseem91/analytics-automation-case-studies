@@ -23,7 +23,7 @@ This project automates a 30-day customer health report using Python.
 - No immediate churn detected, but behavioral signals highlight future churn risk
 - 184 customers flagged for proactive retention efforts
 
-##Tools Used
+## Tools Used
 Python
 Pandas
 Matplotlib
